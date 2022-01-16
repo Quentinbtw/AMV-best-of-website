@@ -1,0 +1,36 @@
+body
+{
+    color:  white;
+    background-image: url("C:/Users/Quentinomade2T2022/Pictures/bg site.jpg");
+    background-size: contain;
+}
+
+ul:hover
+{
+    color: blue
+}
+
+
+iframe
+{
+    height: 672px;
+    width: 1196px;
+    border: none;
+    display:block;
+    margin: 0 auto;
+}
+
+li
+{
+    font-size: 600%;
+}
+
+h1
+{
+    font-size: 800%;
+    text-align: center;
+}
+
+#element::-webkit-scrollbar {
+    display: none;
+}
