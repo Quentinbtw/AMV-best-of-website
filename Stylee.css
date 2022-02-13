@@ -1,13 +1,14 @@
-body
+.body_index
 {
     color:  white;
     background-image: url("./images/bg\ html.gif");
-    background-size: contain;
+    background-size: cover;
+    text-align: center;
 }
 
 ul:hover
 {
-    color: blue
+    color: black
 }
 
 
@@ -33,4 +34,30 @@ h1
 
 #element::-webkit-scrollbar {
     display: none;
+}
+
+a
+{
+    color: black;
+    text-align: center;
+    font-size: 500%;
+    text-decoration: none;
+}
+
+.body2
+{
+    color:  white;
+    background-image: url("./images/bg\ html.gif");
+    background-size: cover;
+    text-align: center;
+}
+
+.Liens
+{
+    color:darkred;
+    text-align: center;
+}
+
+.myDiv{
+    font-size:30px
 }
